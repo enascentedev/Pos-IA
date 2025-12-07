@@ -25,7 +25,11 @@ Este repositório contém o plano de estudos para a minha pós-graduação em In
 
 ---
 
+Início do plano: **30/11/2024 (sábado)**. Todas as entregas foram organizadas para domingos, com a última prevista para **30/11/2025 (domingo)**.
+
 ## Semana 1: Fundamentos de Inteligência Artificial
+
+- **Cronograma:** 30/11/2024 (início) a 29/12/2024 (entrega - domingo)
 
 - **Tópicos:**
 
@@ -47,6 +51,8 @@ Este repositório contém o plano de estudos para a minha pós-graduação em In
 
 ## Semana 2: Matemática e Estatística para IA - Álgebra Linear
 
+- **Cronograma:** 30/12/2024 (início) a 02/02/2025 (entrega - domingo)
+
 - **Tópicos:**
 
   - Vetores, Matrizes e Operações
@@ -63,6 +69,8 @@ Este repositório contém o plano de estudos para a minha pós-graduação em In
 ---
 
 ## Semana 3: Matemática e Estatística para IA - Cálculo e Otimização
+
+- **Cronograma:** 03/02/2025 (início) a 09/03/2025 (entrega - domingo)
 
 - **Tópicos:**
 
@@ -81,6 +89,8 @@ Este repositório contém o plano de estudos para a minha pós-graduação em In
 
 ## Semana 4: Matemática e Estatística para IA - Probabilidade e Estatísticas
 
+- **Cronograma:** 10/03/2025 (início) a 13/04/2025 (entrega - domingo)
+
 - **Tópicos:**
 
   - Variáveis aleatórias, distribuições de probabilidade
@@ -98,6 +108,8 @@ Este repositório contém o plano de estudos para a minha pós-graduação em In
 
 ## Semana 5: Matemática e Estatística para IA - Processos Estocásticos
 
+- **Cronograma:** 14/04/2025 (início) a 18/05/2025 (entrega - domingo)
+
 - **Tópicos:**
 
   - Modelagem de sistemas estocásticos
@@ -113,6 +125,8 @@ Este repositório contém o plano de estudos para a minha pós-graduação em In
 ---
 
 ## Semana 6: Fundamentos de Aprendizado de Máquina
+
+- **Cronograma:** 19/05/2025 (início) a 22/06/2025 (entrega - domingo)
 
 - **Tópicos:**
 
@@ -130,6 +144,8 @@ Este repositório contém o plano de estudos para a minha pós-graduação em In
 ---
 
 ## Semana 7: Aprendizado Supervisionado
+
+- **Cronograma:** 23/06/2025 (início) a 27/07/2025 (entrega - domingo)
 
 - **Tópicos:**
 
@@ -150,6 +166,8 @@ Este repositório contém o plano de estudos para a minha pós-graduação em In
 
 ## Semana 8: Aprendizado Não Supervisionado
 
+- **Cronograma:** 28/07/2025 (início) a 31/08/2025 (entrega - domingo)
+
 - **Tópicos:**
 
   - Clustering (K-means, DBSCAN)
@@ -168,6 +186,8 @@ Este repositório contém o plano de estudos para a minha pós-graduação em In
 
 ## Semana 9: Aprendizado por Reforço
 
+- **Cronograma:** 01/09/2025 (início) a 05/10/2025 (entrega - domingo)
+
 - **Tópicos:**
 
   - Fundamentos de Aprendizado por Reforço
@@ -184,6 +204,8 @@ Este repositório contém o plano de estudos para a minha pós-graduação em In
 ---
 
 ## Semana 10: Redes Neurais e Deep Learning
+
+- **Cronograma:** 06/10/2025 (início) a 09/11/2025 (entrega - domingo)
 
 - **Tópicos:**
 
@@ -203,6 +225,8 @@ Este repositório contém o plano de estudos para a minha pós-graduação em In
 
 ## Semana 11: Processamento de Linguagem Natural (NLP)
 
+- **Cronograma:** 10/11/2025 (início) a 23/11/2025 (entrega - domingo)
+
 - **Tópicos:**
 
   - Tokenização, Lemmatização, Stemização
@@ -220,6 +244,8 @@ Este repositório contém o plano de estudos para a minha pós-graduação em In
 ---
 
 ## Semana 12: Ética e Considerações Sociais na Inteligência Artificial
+
+- **Cronograma:** 24/11/2025 (início) a 30/11/2025 (entrega - domingo)
 
 - **Tópicos:**
 
