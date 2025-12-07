@@ -17,13 +17,18 @@ Este repositório contém o plano de estudos para a minha pós-graduação em In
 9. [Semana 9: Aprendizado por Reforço](#semana-9-aprendizado-por-reforço)
 10. [Semana 10: Redes Neurais e Deep Learning](#semana-10-redes-neurais-e-deep-learning)
 11. [Semana 11: Processamento de Linguagem Natural (NLP)](#semana-11-processamento-de-linguagem-natural-nlp)
-12. [Semana 12: Ética e Considerações Sociais na Inteligência Artificial](#semana-12-ética-e-considerações-sociais-na-inteligência-artificial)
+12. [Semana 12: Ética e Considerações Sociais na Inteligência Artificial]
+
+13. [Semana 13: Estudo para saber com a melhor IDE de código que usa IA)](#semana-11-processamento-de-linguagem-natural-nlp)
+
+(#semana-12-ética-e-considerações-sociais-na-inteligência-artificial)
 
 ---
 
 ## Semana 1: Fundamentos de Inteligência Artificial
 
 - **Tópicos:**
+
   - História da Inteligência Artificial
   - Definições e Tipos de IA (IA Fraca, IA Forte)
   - Abordagens em IA: Raciocínio lógico, aprendizado de máquina, heurísticas
@@ -31,6 +36,7 @@ Este repositório contém o plano de estudos para a minha pós-graduação em In
   - Ética e questões sociais em IA
 
 - **Entrega:**
+
   - Leitura de artigos e livros sobre os fundamentos da IA.
   - Relatório sobre a história da IA e suas abordagens principais.
   - Discussão sobre as implicações sociais e éticas da IA.
@@ -42,11 +48,13 @@ Este repositório contém o plano de estudos para a minha pós-graduação em In
 ## Semana 2: Matemática e Estatística para IA - Álgebra Linear
 
 - **Tópicos:**
+
   - Vetores, Matrizes e Operações
   - Autovalores e Autovetores
   - Decomposição em valores singulares (SVD)
 
 - **Entrega:**
+
   - Exercícios práticos sobre álgebra linear.
   - Implementação de operações com matrizes e vetores em Python.
 
@@ -57,11 +65,13 @@ Este repositório contém o plano de estudos para a minha pós-graduação em In
 ## Semana 3: Matemática e Estatística para IA - Cálculo e Otimização
 
 - **Tópicos:**
+
   - Derivadas, Gradientes e Descenso de Gradiente
   - Otimização convexa e não convexa
   - Algoritmos de otimização (Gradiente Estocástico, Algoritmos Genéticos)
 
 - **Entrega:**
+
   - Implementação de um algoritmo de otimização simples.
   - Análise e comparação de métodos de otimização.
 
@@ -72,11 +82,13 @@ Este repositório contém o plano de estudos para a minha pós-graduação em In
 ## Semana 4: Matemática e Estatística para IA - Probabilidade e Estatísticas
 
 - **Tópicos:**
+
   - Variáveis aleatórias, distribuições de probabilidade
   - Teorema de Bayes, Inferência Bayesiana
   - Testes estatísticos, Modelagem probabilística
 
 - **Entrega:**
+
   - Exercícios sobre distribuições probabilísticas.
   - Implementação de um modelo de inferência bayesiana simples.
 
@@ -87,10 +99,12 @@ Este repositório contém o plano de estudos para a minha pós-graduação em In
 ## Semana 5: Matemática e Estatística para IA - Processos Estocásticos
 
 - **Tópicos:**
+
   - Modelagem de sistemas estocásticos
   - Cadeias de Markov, Processos de Poisson
 
 - **Entrega:**
+
   - Implementação de uma cadeia de Markov.
   - Análise de sistemas estocásticos aplicados a problemas de IA.
 
@@ -101,11 +115,13 @@ Este repositório contém o plano de estudos para a minha pós-graduação em In
 ## Semana 6: Fundamentos de Aprendizado de Máquina
 
 - **Tópicos:**
+
   - Tipos de Aprendizado: Supervisionado, Não Supervisionado e por Reforço
   - Overfitting, Underfitting e Regularização
   - Validação Cruzada, Conjuntos de Treinamento e Teste
 
 - **Entrega:**
+
   - Implementação de modelos simples de aprendizado supervisionado.
   - Testes de validação cruzada e análise de overfitting.
 
@@ -116,6 +132,7 @@ Este repositório contém o plano de estudos para a minha pós-graduação em In
 ## Semana 7: Aprendizado Supervisionado
 
 - **Tópicos:**
+
   - Regressão Linear e Regressão Logística
   - Árvores de Decisão e Florestas Aleatórias
   - Support Vector Machines (SVM)
@@ -123,6 +140,7 @@ Este repositório contém o plano de estudos para a minha pós-graduação em In
   - Métodos Ensemble (Bagging, Boosting)
 
 - **Entrega:**
+
   - Implementação dos algoritmos de aprendizado supervisionado.
   - Comparação de desempenho entre os métodos.
 
@@ -133,12 +151,14 @@ Este repositório contém o plano de estudos para a minha pós-graduação em In
 ## Semana 8: Aprendizado Não Supervisionado
 
 - **Tópicos:**
+
   - Clustering (K-means, DBSCAN)
   - Análise de Componentes Principais (PCA)
   - Análise de Agrupamento Hierárquico
   - Autoencoders
 
 - **Entrega:**
+
   - Implementação de um algoritmo de clustering e análise de resultados.
   - Análise de dados com PCA e Autoencoders.
 
@@ -149,11 +169,13 @@ Este repositório contém o plano de estudos para a minha pós-graduação em In
 ## Semana 9: Aprendizado por Reforço
 
 - **Tópicos:**
+
   - Fundamentos de Aprendizado por Reforço
   - Q-learning e Deep Q Networks (DQN)
   - Aplicações do Aprendizado por Reforço
 
 - **Entrega:**
+
   - Implementação de um agente simples usando Q-learning.
   - Análise de uma aplicação real de aprendizado por reforço.
 
@@ -164,12 +186,14 @@ Este repositório contém o plano de estudos para a minha pós-graduação em In
 ## Semana 10: Redes Neurais e Deep Learning
 
 - **Tópicos:**
+
   - Redes Neurais Artificiais (MLP)
   - Redes Convolucionais (CNN)
   - Redes Recorrentes (RNN, LSTM)
   - Treinamento e Regularização de Redes Neurais
 
 - **Entrega:**
+
   - Implementação de uma rede neural simples.
   - Aplicação de CNN em um problema de visão computacional.
 
@@ -180,12 +204,14 @@ Este repositório contém o plano de estudos para a minha pós-graduação em In
 ## Semana 11: Processamento de Linguagem Natural (NLP)
 
 - **Tópicos:**
+
   - Tokenização, Lemmatização, Stemização
   - Modelos de Linguagem (n-grams, word embeddings)
   - Redes Neurais para NLP (RNN, LSTM, Transformer)
   - Análise de Sentimentos, Tradução Automática
 
 - **Entrega:**
+
   - Implementação de um modelo básico de NLP.
   - Aplicação de análise de sentimentos em um dataset de texto.
 
@@ -196,11 +222,13 @@ Este repositório contém o plano de estudos para a minha pós-graduação em In
 ## Semana 12: Ética e Considerações Sociais na Inteligência Artificial
 
 - **Tópicos:**
+
   - Desafios Éticos na IA
   - Impactos sociais e econômicos da automação
   - IA responsável e transparente
 
 - **Entrega:**
+
   - Relatório sobre ética na IA, incluindo desafios e propostas de soluções.
   - Discussão de casos reais e suas implicações éticas.
 
