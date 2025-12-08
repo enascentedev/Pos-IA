@@ -1,6 +1,8 @@
 # Plano de Estudos: Pós-Graduação em Inteligência Artificial
 
-Este repositório contém o plano de estudos para a minha pós-graduação em Inteligência Artificial. O plano está dividido em 12 semanas, com entregas de tarefas práticas e teóricas, organizadas por tópicos fundamentais para o aprendizado de IA.
+**Descrição curta para About (≤ 160 caracteres, já pronta para copiar):** Plano de 13 semanas em IA com Python, NumPy, pandas, scikit-learn, PyTorch, NLP, RL e ética, com roteiros e tarefas práticas.
+
+Este repositório contém o plano de estudos para a minha pós-graduação em Inteligência Artificial. O plano está dividido em 13 semanas, com entregas de tarefas práticas e teóricas, organizadas por tópicos fundamentais para o aprendizado de IA.
 
 ---
 
@@ -17,15 +19,12 @@ Este repositório contém o plano de estudos para a minha pós-graduação em In
 9. [Semana 9: Aprendizado por Reforço](#semana-9-aprendizado-por-reforço)
 10. [Semana 10: Redes Neurais e Deep Learning](#semana-10-redes-neurais-e-deep-learning)
 11. [Semana 11: Processamento de Linguagem Natural (NLP)](#semana-11-processamento-de-linguagem-natural-nlp)
-12. [Semana 12: Ética e Considerações Sociais na Inteligência Artificial]
-
-13. [Semana 13: Estudo para saber com a melhor IDE de código que usa IA)](#semana-11-processamento-de-linguagem-natural-nlp)
-
-(#semana-12-ética-e-considerações-sociais-na-inteligência-artificial)
+12. [Semana 12: Ética e Considerações Sociais na Inteligência Artificial](#semana-12-ética-e-considerações-sociais-na-inteligência-artificial)
+13. [Semana 13: Estudo sobre IDEs de código integradas a IA](#semana-13-estudo-sobre-ides-de-código-integradas-a-ia)
 
 ---
 
-Início do plano: **30/11/2024 (sábado)**. Todas as entregas foram organizadas para domingos, com a última prevista para **30/11/2025 (domingo)**.
+Início do plano: **30/11/2024 (sábado)**. Todas as entregas foram organizadas para domingos, com a última prevista para **04/01/2026 (domingo)**.
 
 ## Semana 1: Fundamentos de Inteligência Artificial
 
@@ -262,6 +261,26 @@ Início do plano: **30/11/2024 (sábado)**. Todas as entregas foram organizadas 
 
 ---
 
+## Semana 13: Estudo sobre IDEs de código integradas a IA
+
+- **Cronograma:** 01/12/2025 (início) a 04/01/2026 (entrega - domingo)
+
+- **Tópicos:**
+
+  - Comparação de IDEs e assistentes de código com IA (Cursor AI, GitHub Copilot, Codeium e outros)
+  - Recursos de edição, chat e refatoração com múltiplos arquivos
+  - Modelos de negócio, privacidade, segurança e limites de uso
+  - Estudos e métricas de produtividade publicados pelas ferramentas
+
+- **Entrega:**
+
+  - Relatório comparativo destacando pontos fortes, limitações e preços das principais ferramentas.
+  - Recomendações práticas de qual solução adotar conforme o contexto do projeto ou da equipe.
+
+- **Pasta**: `semana_13`
+
+---
+
 ## Conclusão
 
-Este repositório contém todos os materiais e tarefas necessárias para completar o plano de estudos da minha pós-graduação em Inteligência Artificial. Ao longo das 12 semanas, vou implementar conceitos e algoritmos em IA, além de aprofundar o entendimento teórico e prático dessa área em constante evolução.
+Este repositório contém todos os materiais e tarefas necessárias para completar o plano de estudos da minha pós-graduação em Inteligência Artificial. Ao longo das 13 semanas, vou implementar conceitos e algoritmos em IA, além de aprofundar o entendimento teórico e prático dessa área em constante evolução.
