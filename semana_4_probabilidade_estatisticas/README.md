@@ -18,6 +18,9 @@
 - Notebook implementando um classificador Naïve Bayes e um modelo de mistura gaussiana.
 - Relatório curto sobre interpretação de testes A/B fictícios (significância, poder do teste).
 
+### Solução proposta
+- [`exercicio_semana_4.ipynb`](exercicio_semana_4.ipynb): notebook com exemplos executáveis de cálculo de probabilidades, classificador Naïve Bayes, modelo de mistura Gaussiana e simulação completa de teste A/B com cálculo de p-valor e intervalo de confiança.
+
 ## Leituras sugeridas
 - "Probability and Statistics for Engineering and the Sciences" – Jay L. Devore (capítulos iniciais).
 - Tutoriais sobre Naïve Bayes e Gaussian Mixture Models em `scikit-learn`.
