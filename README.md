@@ -284,3 +284,9 @@ Início do plano: **30/11/2024 (sábado)**. Todas as entregas foram organizadas 
 ## Conclusão
 
 Este repositório contém todos os materiais e tarefas necessárias para completar o plano de estudos da minha pós-graduação em Inteligência Artificial. Ao longo das 13 semanas, vou implementar conceitos e algoritmos em IA, além de aprofundar o entendimento teórico e prático dessa área em constante evolução.
+
+---
+
+## Conteúdo complementar
+
+- Engenharia de Arquitetura de Contexto: `engenharia de arquitetura de contexto/arquitetura.md`
