@@ -1,292 +1,80 @@
-# Plano de Estudos: Pós-Graduação em Inteligência Artificial
+# 🚀 Jornada da Pós em Inteligência Artificial
 
-**Descrição curta para About (≤ 160 caracteres, já pronta para copiar):** Plano de 13 semanas em IA com Python, NumPy, pandas, scikit-learn, PyTorch, NLP, RL e ética, com roteiros e tarefas práticas.
+> Um repositório vivo da minha caminhada em IA: teoria, prática, notebooks, reflexões e evolução contínua. 🧠✨
 
-Este repositório contém o plano de estudos para a minha pós-graduação em Inteligência Artificial. O plano está dividido em 13 semanas, com entregas de tarefas práticas e teóricas, organizadas por tópicos fundamentais para o aprendizado de IA.
+[![Status](https://img.shields.io/badge/status-em%20andamento-blue)](#)
+[![Foco](https://img.shields.io/badge/foco-IA%20aplicada-purple)](#)
+[![Plano](https://img.shields.io/badge/duração-13%20semanas-brightgreen)](#)
 
----
+## 💡 Sobre este projeto
 
-## Sumário
+Este repositório organiza meu plano de estudos da pós-graduação em Inteligência Artificial de forma prática e realista, com entregas semanais e materiais por tema.
 
-1. [Semana 1: Fundamentos de Inteligência Artificial](#semana-1-fundamentos-de-inteligência-artificial)
-2. [Semana 2: Matemática e Estatística para IA - Álgebra Linear](#semana-2-matemática-e-estatística-para-ia---álgebra-linear)
-3. [Semana 3: Matemática e Estatística para IA - Cálculo e Otimização](#semana-3-matemática-e-estatística-para-ia---cálculo-e-otimização)
-4. [Semana 4: Matemática e Estatística para IA - Probabilidade e Estatísticas](#semana-4-matemática-e-estatística-para-ia---probabilidade-e-estatísticas)
-5. [Semana 5: Matemática e Estatística para IA - Processos Estocásticos](#semana-5-matemática-e-estatística-para-ia---processos-estocásticos)
-6. [Semana 6: Fundamentos de Aprendizado de Máquina](#semana-6-fundamentos-de-aprendizado-de-máquina)
-7. [Semana 7: Aprendizado Supervisionado](#semana-7-aprendizado-supervisionado)
-8. [Semana 8: Aprendizado Não Supervisionado](#semana-8-aprendizado-não-supervisionado)
-9. [Semana 9: Aprendizado por Reforço](#semana-9-aprendizado-por-reforço)
-10. [Semana 10: Redes Neurais e Deep Learning](#semana-10-redes-neurais-e-deep-learning)
-11. [Semana 11: Processamento de Linguagem Natural (NLP)](#semana-11-processamento-de-linguagem-natural-nlp)
-12. [Semana 12: Ética e Considerações Sociais na Inteligência Artificial](#semana-12-ética-e-considerações-sociais-na-inteligência-artificial)
-13. [Semana 13: Estudo sobre IDEs de código integradas a IA](#semana-13-estudo-sobre-ides-de-código-integradas-a-ia)
+A ideia aqui não é só “acumular conteúdo”, mas **construir repertório técnico de verdade**: entendendo fundamentos, implementando algoritmos, analisando resultados e refletindo sobre impacto social.
 
 ---
 
-Início do plano: **30/11/2024 (sábado)**. Todas as entregas foram organizadas para domingos, com a última prevista para **04/01/2026 (domingo)**.
+## 🗺️ Visão geral da trilha
 
-## Semana 1: Fundamentos de Inteligência Artificial
-
-- **Cronograma:** 30/11/2024 (início) a 29/12/2024 (entrega - domingo)
-
-- **Tópicos:**
-
-  - História da Inteligência Artificial
-  - Definições e Tipos de IA (IA Fraca, IA Forte)
-  - Abordagens em IA: Raciocínio lógico, aprendizado de máquina, heurísticas
-  - IA simbólica vs. IA conexionista
-  - Ética e questões sociais em IA
-
-- **Entrega:**
-
-  - Leitura de artigos e livros sobre os fundamentos da IA.
-  - Relatório sobre a história da IA e suas abordagens principais.
-  - Discussão sobre as implicações sociais e éticas da IA.
-
-- **Pasta**: `semana_1_fundamentos_de_ia`
+- **Início do plano:** `30/11/2024`
+- **Término previsto:** `04/01/2026`
+- **Formato:** organização por semana + tarefas práticas e teóricas
+- **Stack principal:** Python, NumPy, pandas, scikit-learn, PyTorch e conceitos de NLP/RL
 
 ---
 
-## Semana 2: Matemática e Estatística para IA - Álgebra Linear
+## 📚 Estrutura atual do repositório (real)
 
-- **Cronograma:** 30/12/2024 (início) a 02/02/2025 (entrega - domingo)
+Abaixo está o que já está estruturado hoje no projeto:
 
-- **Tópicos:**
+| Semana | Tema | Pasta | Status de material |
+|---|---|---|---|
+| 1 | Fundamentos de IA | `semana_1_fundamentos_de_ia` | ✅ README |
+| 2 | Álgebra Linear | `semana_2_algebra_linear` | ✅ README |
+| 3 | Cálculo e Otimização | `semana_3_calculo_e_otimizacao` | ✅ README |
+| 4 | Probabilidade e Estatística | `semana_4_probabilidade_estatisticas` | ✅ README + notebook |
+| 5 | Processos Estocásticos | `semana_5_processos_estocasticos` | ✅ README + notebook |
+| 6 | Fundamentos de ML | `semana_6_fundamentos_ml` | ✅ README + notebook |
+| 7 | Aprendizado Supervisionado | `semana_7_aprendizado_supervisionado` | ✅ README + notebook |
+| 8 | Aprendizado Não Supervisionado | `semana_8_aprendizado_nao_supervisionado` | ✅ README + notebook |
+| 9 | Aprendizado por Reforço | `semana_9_aprendizado_por_reforco` | ✅ README |
+| 10 | Redes Neurais e Deep Learning | `semana_10_redes_neurais_e_deep_learning` | ✅ README |
+| 11 | NLP | `semana_11_nlp` | ✅ README |
+| 12 | Ética em IA | `semana_12_etica_e_ia` | ✅ README |
+| 13 | IDEs com IA | `semana_13` | ✅ material (`ide_IA.md`) |
 
-  - Vetores, Matrizes e Operações
-  - Autovalores e Autovetores
-  - Decomposição em valores singulares (SVD)
+### 🔎 Materiais extras
 
-- **Entrega:**
-
-  - Exercícios práticos sobre álgebra linear.
-  - Implementação de operações com matrizes e vetores em Python.
-
-- **Pasta**: `semana_2_algebra_linear`
-
----
-
-## Semana 3: Matemática e Estatística para IA - Cálculo e Otimização
-
-- **Cronograma:** 03/02/2025 (início) a 09/03/2025 (entrega - domingo)
-
-- **Tópicos:**
-
-  - Derivadas, Gradientes e Descenso de Gradiente
-  - Otimização convexa e não convexa
-  - Algoritmos de otimização (Gradiente Estocástico, Algoritmos Genéticos)
-
-- **Entrega:**
-
-  - Implementação de um algoritmo de otimização simples.
-  - Análise e comparação de métodos de otimização.
-
-- **Pasta**: `semana_3_calculo_e_otimizacao`
+- `semana_1/fundamentos_IA.md` (anotações complementares)
+- `engenharia de arquitetura de contexto/arquitetura.md` (conteúdo complementar)
 
 ---
 
-## Semana 4: Matemática e Estatística para IA - Probabilidade e Estatísticas
+## 🎯 Objetivo por fase
 
-- **Cronograma:** 10/03/2025 (início) a 13/04/2025 (entrega - domingo)
+### 1) Base sólida (Semanas 1–5)
+Construir fundamentos matemáticos e conceituais para não depender de “caixa-preta”.
 
-- **Tópicos:**
+### 2) Machine Learning clássico (Semanas 6–9)
+Treinar o olhar de modelagem: escolha de algoritmo, validação, overfitting e interpretação.
 
-  - Variáveis aleatórias, distribuições de probabilidade
-  - Teorema de Bayes, Inferência Bayesiana
-  - Testes estatísticos, Modelagem probabilística
-
-- **Entrega:**
-
-  - Exercícios sobre distribuições probabilísticas.
-  - Implementação de um modelo de inferência bayesiana simples.
-
-- **Pasta**: `semana_4_probabilidade_estatisticas`
+### 3) IA moderna e impacto (Semanas 10–13)
+Aprofundar redes neurais, NLP, ética e produtividade com ferramentas de IA no desenvolvimento.
 
 ---
 
-## Semana 5: Matemática e Estatística para IA - Processos Estocásticos
+## 🧪 Como navegar no projeto
 
-- **Cronograma:** 14/04/2025 (início) a 18/05/2025 (entrega - domingo)
-
-- **Tópicos:**
-
-  - Modelagem de sistemas estocásticos
-  - Cadeias de Markov, Processos de Poisson
-
-- **Entrega:**
-
-  - Implementação de uma cadeia de Markov.
-  - Análise de sistemas estocásticos aplicados a problemas de IA.
-
-- **Pasta**: `semana_5_processos_estocasticos`
+1. Abra a pasta da semana desejada.
+2. Leia o `README.md` da semana para contexto e objetivos.
+3. Execute os notebooks (`.ipynb`) quando disponíveis para reproduzir a prática.
+4. Use os materiais complementares para ampliar o entendimento.
 
 ---
 
-## Semana 6: Fundamentos de Aprendizado de Máquina
+## ❤️ Motivação
 
-- **Cronograma:** 19/05/2025 (início) a 22/06/2025 (entrega - domingo)
+Este repositório é mais do que um cronograma: é um registro da evolução de uma jornada real em IA.
+Cada semana concluída é um passo a mais rumo à construção de soluções inteligentes com responsabilidade, técnica e propósito.
 
-- **Tópicos:**
-
-  - Tipos de Aprendizado: Supervisionado, Não Supervisionado e por Reforço
-  - Overfitting, Underfitting e Regularização
-  - Validação Cruzada, Conjuntos de Treinamento e Teste
-
-- **Entrega:**
-
-  - Implementação de modelos simples de aprendizado supervisionado.
-  - Testes de validação cruzada e análise de overfitting.
-
-- **Pasta**: `semana_6_fundamentos_ml`
-
----
-
-## Semana 7: Aprendizado Supervisionado
-
-- **Cronograma:** 23/06/2025 (início) a 27/07/2025 (entrega - domingo)
-
-- **Tópicos:**
-
-  - Regressão Linear e Regressão Logística
-  - Árvores de Decisão e Florestas Aleatórias
-  - Support Vector Machines (SVM)
-  - K-Nearest Neighbors (KNN)
-  - Métodos Ensemble (Bagging, Boosting)
-
-- **Entrega:**
-
-  - Implementação dos algoritmos de aprendizado supervisionado.
-  - Comparação de desempenho entre os métodos.
-
-- **Pasta**: `semana_7_aprendizado_supervisionado`
-
----
-
-## Semana 8: Aprendizado Não Supervisionado
-
-- **Cronograma:** 28/07/2025 (início) a 31/08/2025 (entrega - domingo)
-
-- **Tópicos:**
-
-  - Clustering (K-means, DBSCAN)
-  - Análise de Componentes Principais (PCA)
-  - Análise de Agrupamento Hierárquico
-  - Autoencoders
-
-- **Entrega:**
-
-  - Implementação de um algoritmo de clustering e análise de resultados.
-  - Análise de dados com PCA e Autoencoders.
-
-- **Pasta**: `semana_8_aprendizado_nao_supervisionado`
-
----
-
-## Semana 9: Aprendizado por Reforço
-
-- **Cronograma:** 01/09/2025 (início) a 05/10/2025 (entrega - domingo)
-
-- **Tópicos:**
-
-  - Fundamentos de Aprendizado por Reforço
-  - Q-learning e Deep Q Networks (DQN)
-  - Aplicações do Aprendizado por Reforço
-
-- **Entrega:**
-
-  - Implementação de um agente simples usando Q-learning.
-  - Análise de uma aplicação real de aprendizado por reforço.
-
-- **Pasta**: `semana_9_aprendizado_por_reforco`
-
----
-
-## Semana 10: Redes Neurais e Deep Learning
-
-- **Cronograma:** 06/10/2025 (início) a 09/11/2025 (entrega - domingo)
-
-- **Tópicos:**
-
-  - Redes Neurais Artificiais (MLP)
-  - Redes Convolucionais (CNN)
-  - Redes Recorrentes (RNN, LSTM)
-  - Treinamento e Regularização de Redes Neurais
-
-- **Entrega:**
-
-  - Implementação de uma rede neural simples.
-  - Aplicação de CNN em um problema de visão computacional.
-
-- **Pasta**: `semana_10_redes_neurais_e_deep_learning`
-
----
-
-## Semana 11: Processamento de Linguagem Natural (NLP)
-
-- **Cronograma:** 10/11/2025 (início) a 23/11/2025 (entrega - domingo)
-
-- **Tópicos:**
-
-  - Tokenização, Lemmatização, Stemização
-  - Modelos de Linguagem (n-grams, word embeddings)
-  - Redes Neurais para NLP (RNN, LSTM, Transformer)
-  - Análise de Sentimentos, Tradução Automática
-
-- **Entrega:**
-
-  - Implementação de um modelo básico de NLP.
-  - Aplicação de análise de sentimentos em um dataset de texto.
-
-- **Pasta**: `semana_11_nlp`
-
----
-
-## Semana 12: Ética e Considerações Sociais na Inteligência Artificial
-
-- **Cronograma:** 24/11/2025 (início) a 30/11/2025 (entrega - domingo)
-
-- **Tópicos:**
-
-  - Desafios Éticos na IA
-  - Impactos sociais e econômicos da automação
-  - IA responsável e transparente
-
-- **Entrega:**
-
-  - Relatório sobre ética na IA, incluindo desafios e propostas de soluções.
-  - Discussão de casos reais e suas implicações éticas.
-
-- **Pasta**: `semana_12_etica_e_ia`
-
----
-
-## Semana 13: Estudo sobre IDEs de código integradas a IA
-
-- **Cronograma:** 01/12/2025 (início) a 04/01/2026 (entrega - domingo)
-
-- **Tópicos:**
-
-  - Comparação de IDEs e assistentes de código com IA (Cursor AI, GitHub Copilot, Codeium e outros)
-  - Recursos de edição, chat e refatoração com múltiplos arquivos
-  - Modelos de negócio, privacidade, segurança e limites de uso
-  - Estudos e métricas de produtividade publicados pelas ferramentas
-
-- **Entrega:**
-
-  - Relatório comparativo destacando pontos fortes, limitações e preços das principais ferramentas.
-  - Recomendações práticas de qual solução adotar conforme o contexto do projeto ou da equipe.
-
-- **Pasta**: `semana_13`
-
----
-
-## Conclusão
-
-Este repositório contém todos os materiais e tarefas necessárias para completar o plano de estudos da minha pós-graduação em Inteligência Artificial. Ao longo das 13 semanas, vou implementar conceitos e algoritmos em IA, além de aprofundar o entendimento teórico e prático dessa área em constante evolução.
-
----
-
-## Conteúdo complementar
-
-- Engenharia de Arquitetura de Contexto: `engenharia de arquitetura de contexto/arquitetura.md`
+Se você também está estudando IA, fique à vontade para se inspirar na estrutura. Vamos evoluir juntos. 🤝
